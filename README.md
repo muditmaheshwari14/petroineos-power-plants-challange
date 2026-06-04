@@ -57,31 +57,6 @@ The outliers were excluded from `database.csv` because their values were signifi
 └── README.md                      # Project documentation
 ```
 
-## How to Run
-
-1. Clone or download this repository.
-2. Open `power_plants_challange.ipynb` in Jupyter Notebook or JupyterLab.
-3. Ensure the three input CSV files are in the same directory as the notebook.
-4. Run the notebook from top to bottom.
-
-The notebook will:
-
-1. Analyse and clean each input file.
-2. Save the cleaned records into `database.csv`.
-3. Generate the latest plant-level dataset.
-4. Produce quarterly plant-level aggregations.
-5. Produce country-level technology aggregations.
-6. Save logs of important cleaning decisions and detected issues.
-
-## Requirements
-
-The task only requires the following Python library:
-
-```bash
-pip install pandas
-```
-
-The notebook uses standard Python libraries along with `pandas`.
 
 ## Outputs
 
