@@ -1,4 +1,4 @@
-# petroineos-pwer-plants-challange
+# petroineos-power-plants-challange
 # Power Plants Data Pipeline
 
 This repository contains my solution for the Power Plants data processing task. The assignment required building a self-contained Jupyter notebook to analyse, clean, load, and aggregate power plant volume data from multiple CSV files.
