@@ -80,6 +80,4 @@ The notebook provides:
 * Quarterly plant-level aggregation using mean, median, and standard deviation
 * Country-level total production grouped by country and technology
 
-## Notes
 
-This solution is fully contained within the Jupyter notebook, as required by the task. No separate Python files are needed.
